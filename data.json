@@ -1,0 +1,32 @@
+[
+    {
+        "name": "giorgi",
+        "lastname": "bachidze",
+        "age": 20,
+        "bodycount": 0.5
+    },
+    {
+        "name": "sulxan",
+        "lastname": "kvernadze",
+        "age": 11,
+        "bodycount": 23
+    },
+    {
+        "name": "siko",
+        "lastname": "chumburidze",
+        "age": 23,
+        "bodycount": 0
+    },
+    {
+        "name": "natasha",
+        "lastname": "humanitari",
+        "age": 15,
+        "bodycount": 0
+    },
+    {
+        "name": "nuca",
+        "lastname": "qajaia",
+        "age": 19,
+        "bodycount": 129
+    }
+]
